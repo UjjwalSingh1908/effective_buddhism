@@ -48,3 +48,13 @@
 .ol li{
   padding-bottom: 1rem ;
 }
+
+@media screen and (max-width: 500px) {
+  html{
+    font-size: 65%;
+    
+  }
+  .content{
+    padding: 0 2rem 2rem 2rem;
+  }
+}
